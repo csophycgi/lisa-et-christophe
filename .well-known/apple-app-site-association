@@ -4,8 +4,11 @@
     "details": [
       {
         "appID": "SWLB2E5322.fr.acg.synergies.agencevirtuelle",
-        "paths": [
-          "*"
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL"
+          }
         ]
       }
     ]
