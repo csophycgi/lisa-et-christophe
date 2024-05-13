@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "fr.acg.synergies.agencevirtuelle",
       "sha256_cert_fingerprints": [
-        "48:52:58:6B:53:00:0F:C7:B5:9A:20:FE:B2:72:5E:79:D4:54:D0:2F:72:3D:3A:87:B4:57:D1:A1:75:8D:5E:1F"
+        "48:52:58:6B:53:00:0F:C7:B5:9A:20:FE:B2:72:5E:79:D4:54:D0:2F:72:3D:3A:87:B4:57:D1:A1:75:8D:5E:1F",
+        "D7:67:2C:92:0C:4E:6D:58:A3:7F:B7:E1:33:71:69:95:7D:00:1B:C8:7E:E7:D6:F0:54:EE:DA:58:A1:06:8C:BB"
       ]
     }
   }
